@@ -16,3 +16,52 @@ Consistently solving problems to strengthen algorithmic thinking and problem-sol
 ---
 
 ## 📁 Structure
+leetcode-solutions/
+
+├── C++/
+
+│   ├── easy/
+
+│   ├── medium/
+
+│   └── hard/
+
+
+---
+
+## 🗂️ Solutions
+
+### C++
+| # | Title | Difficulty | Topics | Solution |
+|---|-------|------------|--------|----------|
+
+---
+
+## 🏷️ Topics Covered
+
+- Arrays & Strings
+- Hash Maps & Sets
+- Two Pointers
+- Sliding Window
+- Stack & Queue
+- Binary Search
+- Linked Lists
+- Trees & Graphs
+- Dynamic Programming
+- Backtracking
+
+---
+
+## 📌 Notes
+
+Each solution file includes:
+- Problem description
+- Approach and thought process
+- Time and space complexity
+- Alternative approaches where applicable
+
+---
+
+## 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tharun--mannam-blue)](https://www.linkedin.com/in/tharun-mannam/)
